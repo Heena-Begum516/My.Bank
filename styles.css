@@ -1,0 +1,16 @@
+.header {
+    background-color: rgb(105, 12, 4);
+    justify-content: center;
+    display: flex;
+    color: white;
+    
+}
+
+.login {
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(249, 229, 232);
+    justify-content: center;
+}
